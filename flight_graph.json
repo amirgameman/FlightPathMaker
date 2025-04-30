@@ -1,0 +1,130 @@
+{
+    "Москва": {
+        "Санкт-Петербург": {"distance": 634, "price": 5000, "hotels": 245, "comfort": 8},
+        "Казань": {"distance": 719, "price": 4500, "hotels": 120, "comfort": 7},
+        "Сочи": {"distance": 1360, "price": 8000, "hotels": 180, "comfort": 9},
+        "Минск": {"distance": 675, "price": 6000, "hotels": 90, "comfort": 6},
+        "Воронеж": {"distance": 465, "price": 3500, "hotels": 80, "comfort": 5},
+        "Нижний Новгород": {"distance": 402, "price": 4000, "hotels": 110, "comfort": 7},
+        "Самара": {"distance": 857, "price": 5500, "hotels": 95, "comfort": 6}
+    },
+    "Санкт-Петербург": {
+        "Москва": {"distance": 634, "price": 5000, "hotels": 245, "comfort": 8},
+        "Калининград": {"distance": 826, "price": 6500, "hotels": 75, "comfort": 7},
+        "Ростов-на-Дону": {"distance": 1540, "price": 9000, "hotels": 110, "comfort": 6},
+        "Мурманск": {"distance": 1014, "price": 7500, "hotels": 45, "comfort": 5}
+    },
+    "Казань": {
+        "Москва": {"distance": 719, "price": 4500, "hotels": 245, "comfort": 7},
+        "Екатеринбург": {"distance": 717, "price": 6000, "hotels": 130, "comfort": 8},
+        "Новосибирск": {"distance": 2123, "price": 12000, "hotels": 100, "comfort": 6},
+        "Уфа": {"distance": 449, "price": 4000, "hotels": 85, "comfort": 5},
+        "Самара": {"distance": 295, "price": 3000, "hotels": 95, "comfort": 7}
+    },
+    "Сочи": {
+        "Москва": {"distance": 1360, "price": 8000, "hotels": 245, "comfort": 9},
+        "Ростов-на-Дону": {"distance": 505, "price": 4500, "hotels": 110, "comfort": 7},
+        "Краснодар": {"distance": 170, "price": 2500, "hotels": 70, "comfort": 8},
+        "Симферополь": {"distance": 500, "price": 5000, "hotels": 60, "comfort": 6}
+    },
+    "Ростов-на-Дону": {
+        "Санкт-Петербург": {"distance": 1540, "price": 9000, "hotels": 245, "comfort": 6},
+        "Сочи": {"distance": 505, "price": 4500, "hotels": 180, "comfort": 7},
+        "Краснодар": {"distance": 274, "price": 3500, "hotels": 70, "comfort": 8},
+        "Волгоград": {"distance": 474, "price": 4000, "hotels": 90, "comfort": 5},
+        "Воронеж": {"distance": 563, "price": 4500, "hotels": 80, "comfort": 6}
+    },
+    "Краснодар": {
+        "Сочи": {"distance": 170, "price": 2500, "hotels": 180, "comfort": 8},
+        "Ростов-на-Дону": {"distance": 274, "price": 3500, "hotels": 110, "comfort": 7},
+        "Симферополь": {"distance": 369, "price": 4000, "hotels": 60, "comfort": 6},
+        "Волгоград": {"distance": 480, "price": 4500, "hotels": 90, "comfort": 5}
+    },
+    "Симферополь": {
+        "Краснодар": {"distance": 369, "price": 4000, "hotels": 70, "comfort": 6},
+        "Сочи": {"distance": 500, "price": 5000, "hotels": 180, "comfort": 7},
+        "Ростов-на-Дону": {"distance": 700, "price": 6000, "hotels": 110, "comfort": 8},
+        "Москва": {"distance": 1480, "price": 8500, "hotels": 245, "comfort": 9}
+    },
+    "Калининград": {
+        "Санкт-Петербург": {"distance": 826, "price": 6500, "hotels": 245, "comfort": 7},
+        "Минск": {"distance": 470, "price": 5000, "hotels": 90, "comfort": 6}
+    },
+    "Минск": {
+        "Москва": {"distance": 675, "price": 6000, "hotels": 245, "comfort": 6},
+        "Калининград": {"distance": 470, "price": 5000, "hotels": 75, "comfort": 5}
+    },
+    "Екатеринбург": {
+        "Казань": {"distance": 717, "price": 6000, "hotels": 120, "comfort": 8},
+        "Новосибирск": {"distance": 1465, "price": 9000, "hotels": 100, "comfort": 7},
+        "Пермь": {"distance": 360, "price": 4000, "hotels": 65, "comfort": 6},
+        "Уфа": {"distance": 525, "price": 5000, "hotels": 85, "comfort": 5}
+    },
+    "Новосибирск": {
+        "Казань": {"distance": 2123, "price": 12000, "hotels": 120, "comfort": 6},
+        "Екатеринбург": {"distance": 1465, "price": 9000, "hotels": 130, "comfort": 7},
+        "Красноярск": {"distance": 799, "price": 6000, "hotels": 75, "comfort": 8},
+        "Омск": {"distance": 627, "price": 5000, "hotels": 60, "comfort": 5}
+    },
+    "Воронеж": {
+        "Москва": {"distance": 465, "price": 3500, "hotels": 245, "comfort": 5},
+        "Ростов-на-Дону": {"distance": 563, "price": 4500, "hotels": 110, "comfort": 6},
+        "Волгоград": {"distance": 582, "price": 5000, "hotels": 90, "comfort": 7}
+    },
+    "Нижний Новгород": {
+        "Москва": {"distance": 402, "price": 4000, "hotels": 245, "comfort": 7},
+        "Казань": {"distance": 340, "price": 3500, "hotels": 120, "comfort": 6},
+        "Самара": {"distance": 530, "price": 4500, "hotels": 95, "comfort": 8}
+    },
+    "Самара": {
+        "Москва": {"distance": 857, "price": 5500, "hotels": 245, "comfort": 6},
+        "Казань": {"distance": 295, "price": 3000, "hotels": 120, "comfort": 7},
+        "Нижний Новгород": {"distance": 530, "price": 4500, "hotels": 110, "comfort": 5},
+        "Уфа": {"distance": 350, "price": 3500, "hotels": 85, "comfort": 8}
+    },
+    "Мурманск": {
+        "Санкт-Петербург": {"distance": 1014, "price": 7500, "hotels": 245, "comfort": 5}
+    },
+    "Уфа": {
+        "Казань": {"distance": 449, "price": 4000, "hotels": 120, "comfort": 5},
+        "Екатеринбург": {"distance": 525, "price": 5000, "hotels": 130, "comfort": 6},
+        "Самара": {"distance": 350, "price": 3500, "hotels": 95, "comfort": 7},
+        "Пермь": {"distance": 520, "price": 4500, "hotels": 65, "comfort": 8}
+    },
+    "Волгоград": {
+        "Ростов-на-Дону": {"distance": 474, "price": 4000, "hotels": 110, "comfort": 5},
+        "Краснодар": {"distance": 480, "price": 4500, "hotels": 70, "comfort": 6},
+        "Воронеж": {"distance": 582, "price": 5000, "hotels": 80, "comfort": 7},
+        "Москва": {"distance": 950, "price": 6000, "hotels": 245, "comfort": 8}
+    },
+    "Пермь": {
+        "Екатеринбург": {"distance": 360, "price": 4000, "hotels": 130, "comfort": 6},
+        "Уфа": {"distance": 520, "price": 4500, "hotels": 85, "comfort": 7}
+    },
+    "Омск": {
+        "Новосибирск": {"distance": 627, "price": 5000, "hotels": 100, "comfort": 5},
+        "Красноярск": {"distance": 1200, "price": 7000, "hotels": 75, "comfort": 6}
+    },
+    "Красноярск": {
+        "Новосибирск": {"distance": 799, "price": 6000, "hotels": 100, "comfort": 7},
+        "Омск": {"distance": 1200, "price": 7000, "hotels": 60, "comfort": 8},
+        "Иркутск": {"distance": 1060, "price": 7500, "hotels": 55, "comfort": 5}
+    },
+    "Иркутск": {
+        "Красноярск": {"distance": 1060, "price": 7500, "hotels": 75, "comfort": 6},
+        "Хабаровск": {"distance": 2200, "price": 13000, "hotels": 50, "comfort": 7},
+        "Якутск": {"distance": 1500, "price": 10000, "hotels": 30, "comfort": 8}
+    },
+    "Владивосток": {
+        "Хабаровск": {"distance": 760, "price": 5500, "hotels": 60, "comfort": 5}
+    },
+    "Хабаровск": {
+        "Владивосток": {"distance": 760, "price": 5500, "hotels": 60, "comfort": 6},
+        "Иркутск": {"distance": 2200, "price": 13000, "hotels": 55, "comfort": 7},
+        "Якутск": {"distance": 1500, "price": 10000, "hotels": 30, "comfort": 8}
+    },
+    "Якутск": {
+        "Хабаровск": {"distance": 1500, "price": 10000, "hotels": 50, "comfort": 5},
+        "Иркутск": {"distance": 1500, "price": 10000, "hotels": 55, "comfort": 6}
+    }
+}
